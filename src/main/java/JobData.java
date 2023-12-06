@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Created by LaunchCode
+ * completed by Brandon Reiser
  */
 public class JobData {
 
